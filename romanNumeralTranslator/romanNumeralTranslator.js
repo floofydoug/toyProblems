@@ -7,7 +7,7 @@
  * translateRomanNumeral("LX") // 60
  *
  * When a smaller numeral appears before a larger one, it becomes
- * a subtractive obertion. You can assume only one smaller numeral
+ * a subtractive operation. You can assume only one smaller numeral
  * may appear in front of larger one.
  *
  * Ex:
